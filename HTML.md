@@ -1,3 +1,4 @@
+```
 - <!DOCTYPE html> - naršyklei nurodo, jog failą reikia interpretuoti pagal HTML5 standartą
 - <html>
     - <head>
@@ -18,3 +19,4 @@
         - <nav> - elementas gaubiantis pagrindinio turinio nuorodas
         - <ul>, <ol>, <li> - stilizuotų sąrašų kūrimas
         - <script> - nuoroda į JavaScript failą, arba pats JavaScript kodo turinys
+```
